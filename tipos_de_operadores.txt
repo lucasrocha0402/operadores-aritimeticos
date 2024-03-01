@@ -1,0 +1,18 @@
++ adição (5 + 2 == 7)
+- subtração ( 5 - 2 == 3)
+* multiplicação ( 5 * 2 == 10)
+/ divisão ( 5 / 2 == 2.5 )
+** exponenciação ou potencia ( 5 ** 2 == 25)
+// divisão inteira ( 5 // 2 == 2 "A divisão inteira é apenas o valor que fica a esquerda da virgula, ou seja o valor inteiro")
+% modulo ou resto da divisão ( 5 % 2 == 1 "O valor que sobrou da divisão")
+raiz quadrada ** (1/2)
+
+somente numeros ou variaveis que contem numeros 
+operadores binarios funcionam com dois numeros ou variaveis 
+para saber se é igual usa ==
+
+Ordem de precedencia(operadores que vem primeiro na ordem de expressão)
+1: ()
+2: **
+3: *, /, //, % "A ordem vai ser por quem aparecer primeiro"
+4: +, -   
